@@ -1,0 +1,22 @@
+.NET 8 구조
+
+LMIS.sln
+├── LMIS.API          ← API Gateway (ASP.NET Core Web API)
+├── LMIS.OMS          ← 주문관리 (ASP.NET Core Web API)
+├── LMIS.TMS          ← 운송관리 (ASP.NET Core Web API)
+├── LMIS.WMS          ← 창고관리 (ASP.NET Core Web API)
+├── LMIS.SCM          ← 공급망관리 (ASP.NET Core Web API)
+├── LMIS.Core         ← 공통 서비스: 인증, 권한, 설정
+├── LMIS.Shared       ← 공통 DTO, 이벤트 모델 등
+└── LMIS.Web          ← WPF 실행 프로그램 (.NET 8)
+
+
+프로젝트	유형	설명
+LMIS.API	Web API	API Gateway, 외부 진입점, Swagger UI
+LMIS.OMS	Web API	주문 관련 기능 처리
+LMIS.TMS	Web API	배차, 차량, 기사 관리
+LMIS.WMS	Web API	창고 입출고, 재고 관리
+LMIS.SCM	Web API	공급망 예측, 자동 발주 판단
+LMIS.Core	Class Library	공통 서비스: 인증, 로깅, 설정 등
+LMIS.Shared	Class Library	DTO, 메시지 이벤트, 공통 Enum 등
+LMIS.Web	WPF 앱	사용자 인터페이스 (.exe 실행파일)

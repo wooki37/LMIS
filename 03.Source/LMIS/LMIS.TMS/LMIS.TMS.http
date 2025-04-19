@@ -1,0 +1,6 @@
+@LMIS.TMS_HostAddress = http://localhost:5269
+
+GET {{LMIS.TMS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
