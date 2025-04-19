@@ -1,0 +1,108 @@
+# ========== 기본: Visual Studio + ASP.NET Core ==========
+.vs/
+*.user
+*.suo
+*.cache
+*.dbmdl
+*.pfx
+*.log
+
+# ========== 빌드 출력물 ==========
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+out/
+x64/
+x86/
+
+# ========== NuGet 관련 ==========
+*.nupkg
+*.snupkg
+*.nuget.props
+*.nuget.targets
+packages/
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+
+# ========== Publish 관련 ==========
+*.publishproj
+*.pubxml
+*.azurePubxml
+PublishScripts/
+publish/
+*.appx
+*.appxbundle
+*.appxupload
+
+# ========== 테스트 및 리포트 ==========
+TestResults/
+*.coverage
+*.coveragexml
+*.vsp
+*.vspscc
+*.vssscc
+*.e2e
+*.trx
+*.binlog
+BenchmarkDotNet.Artifacts/
+
+# ========== 리팩터링/툴 ==========
+.idea/
+*.DotSettings.user
+_ReSharper*/
+*.tss
+.vscode/
+.history/
+.axoCover/*
+coverage*.json
+coverage*.xml
+coverage*.info
+
+# ========== 로그/임시/환경파일 ==========
+*.log
+logs/
+seq/
+*.mqconfig.json
+*.GhostDoc.xml
+*.rptproj.bak
+
+# ========== 플랫폼/시스템 ==========
+*.DS_Store
+Thumbs.db
+Desktop.ini
+*.orig
+*.BACKUP.*
+*.BASE.*
+*.LOCAL.*
+*.REMOTE.*
+*.tmp
+*.tmp_proj
+~$*
+*~
+
+# ========== WPF 특화 무시 ==========
+*_wpftmp.csproj
+*.userprefs
+
+# ========== draw.io 자동 저장 백업 파일 ==========
+*.drawio.bkp
+
+# ========== LMIS 특화 ==========
+appsettings.Development.json
+appsettings.*.json.user
+*.vsidx
+03.Source/LMIS/.vs/
+
+# ========== SQL Server DB ==========
+*.mdf
+*.ldf
+*.ndf
+
+# ========== 기타 자동 생성 ==========
+Generated\ Files/
+ScaffoldingReadMe.txt
+node_modules/
+.project
+*.bak
+*.rptproj.rsuser

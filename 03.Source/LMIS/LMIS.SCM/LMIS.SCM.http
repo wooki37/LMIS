@@ -1,0 +1,6 @@
+@LMIS.SCM_HostAddress = http://localhost:5143
+
+GET {{LMIS.SCM_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
