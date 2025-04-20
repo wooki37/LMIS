@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LMIS.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+055a2667519a914196604fd1bca5c20bdadb23dc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0bb28a0cce4896a52921a4df3430c3a369102e58")]
 [assembly: System.Reflection.AssemblyProductAttribute("LMIS.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LMIS.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
