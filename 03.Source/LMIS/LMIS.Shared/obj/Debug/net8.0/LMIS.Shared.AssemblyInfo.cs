@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LMIS.Shared")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0bb28a0cce4896a52921a4df3430c3a369102e58")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c62d1a66561af57846709c0e525d6569620051a")]
 [assembly: System.Reflection.AssemblyProductAttribute("LMIS.Shared")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LMIS.Shared")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
