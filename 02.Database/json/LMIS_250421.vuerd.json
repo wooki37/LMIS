@@ -4,8 +4,8 @@
   "settings": {
     "width": 2000,
     "height": 2000,
-    "scrollTop": 0,
-    "scrollLeft": -671.6974,
+    "scrollTop": -500,
+    "scrollLeft": -668.4927,
     "zoomLevel": 0.91,
     "show": 431,
     "database": 2,
@@ -336,25 +336,29 @@
           "l8CaNcUwvOyrS8pGNl_g1",
           "yKvpqh8nR726Q2tq2zX2G",
           "UHT5czl6lGDAO4CzTReQS",
-          "8deJnzEwgxIUh9RrJDjtj"
+          "8deJnzEwgxIUh9RrJDjtj",
+          "QTzfll9g-ymK1Oa_F47u1",
+          "aI2mZztwlmL726P0fHzjG"
         ],
         "seqColumnIds": [
           "z26DdVplFT9EUbWZ6w426",
           "l8CaNcUwvOyrS8pGNl_g1",
           "yKvpqh8nR726Q2tq2zX2G",
           "UHT5czl6lGDAO4CzTReQS",
-          "8deJnzEwgxIUh9RrJDjtj"
+          "8deJnzEwgxIUh9RrJDjtj",
+          "QTzfll9g-ymK1Oa_F47u1",
+          "aI2mZztwlmL726P0fHzjG"
         ],
         "ui": {
-          "x": 1351.929111496788,
-          "y": 943.2389577729612,
+          "x": 1280.5005,
+          "y": 846.5357,
           "zIndex": 175,
           "widthName": 110,
           "widthComment": 60,
           "color": ""
         },
         "meta": {
-          "updateAt": 1744572373399,
+          "updateAt": 1745259840364,
           "createAt": 1744567284042
         }
       },
@@ -2648,6 +2652,46 @@
           "updateAt": 1745178042915,
           "createAt": 1745178042914
         }
+      },
+      "QTzfll9g-ymK1Oa_F47u1": {
+        "id": "QTzfll9g-ymK1Oa_F47u1",
+        "tableId": "LsqDmgvPhFvhdSurm68qi",
+        "name": "AssignmentStatus",
+        "comment": "배차상태",
+        "dataType": "varchar(30)",
+        "default": "",
+        "options": 0,
+        "ui": {
+          "keys": 0,
+          "widthName": 96,
+          "widthComment": 60,
+          "widthDataType": 61,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1745259871891,
+          "createAt": 1745259817026
+        }
+      },
+      "aI2mZztwlmL726P0fHzjG": {
+        "id": "aI2mZztwlmL726P0fHzjG",
+        "tableId": "LsqDmgvPhFvhdSurm68qi",
+        "name": "AssignmentStrategy",
+        "comment": "배차전략",
+        "dataType": "varchar(30)",
+        "default": "",
+        "options": 0,
+        "ui": {
+          "keys": 0,
+          "widthName": 108,
+          "widthComment": 60,
+          "widthDataType": 61,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1745259869056,
+          "createAt": 1745259840364
+        }
       }
     },
     "relationshipEntities": {
@@ -2782,8 +2826,8 @@
           "columnIds": [
             "l8CaNcUwvOyrS8pGNl_g1"
           ],
-          "x": 1455.429111496788,
-          "y": 1119.2389577729612,
+          "x": 1384.5005,
+          "y": 1070.5357,
           "direction": 8
         },
         "meta": {
@@ -2810,8 +2854,8 @@
           "columnIds": [
             "yKvpqh8nR726Q2tq2zX2G"
           ],
-          "x": 1558.929111496788,
-          "y": 943.2389577729612,
+          "x": 1488.5005,
+          "y": 846.5357,
           "direction": 4
         },
         "meta": {
@@ -2838,8 +2882,8 @@
           "columnIds": [
             "UHT5czl6lGDAO4CzTReQS"
           ],
-          "x": 1662.429111496788,
-          "y": 1119.2389577729612,
+          "x": 1592.5005,
+          "y": 1070.5357,
           "direction": 8
         },
         "meta": {
@@ -4504,6 +4548,26 @@
       1745178042911,
       -1,
       {}
+    ],
+    "QTzfll9g-ymK1Oa_F47u1": [
+      "tableColumnEntities",
+      1745259817024,
+      -1,
+      {
+        "name": 1745259823835,
+        "dataType": 1745259871889,
+        "comment": 1745259837786
+      }
+    ],
+    "aI2mZztwlmL726P0fHzjG": [
+      "tableColumnEntities",
+      1745259840363,
+      -1,
+      {
+        "name": 1745259856888,
+        "dataType": 1745259864058,
+        "comment": 1745259869056
+      }
     ]
   }
 }
