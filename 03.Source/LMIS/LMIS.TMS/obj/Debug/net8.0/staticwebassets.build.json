@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "q7rmp3kuwbbAFRs7E4zIt2ppfKPM0LNYRE+aUF9BjXM=",
+  "Source": "LMIS.TMS",
+  "BasePath": "_content/LMIS.TMS",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

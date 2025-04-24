@@ -1,0 +1,15 @@
+D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.Web\bin\Debug\LMIS.Web.exe.config
+D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.Web\bin\Debug\LMIS.Web.exe
+D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.Web\bin\Debug\LMIS.Web.pdb
+D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.Web\obj\Debug\LMIS.Web.csproj.AssemblyReference.cache
+D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.Web\obj\Debug\MainWindow.g.cs
+D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.Web\obj\Debug\App.g.cs
+D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.Web\obj\Debug\LMIS.Web_MarkupCompile.cache
+D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.Web\obj\Debug\LMIS.Web_MarkupCompile.lref
+D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.Web\obj\Debug\MainWindow.baml
+D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.Web\obj\Debug\LMIS.Web.g.resources
+D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.Web\obj\Debug\LMIS.Web.Properties.Resources.resources
+D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.Web\obj\Debug\LMIS.Web.csproj.GenerateResource.cache
+D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.Web\obj\Debug\LMIS.Web.csproj.CoreCompileInputs.cache
+D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.Web\obj\Debug\LMIS.Web.exe
+D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.Web\obj\Debug\LMIS.Web.pdb

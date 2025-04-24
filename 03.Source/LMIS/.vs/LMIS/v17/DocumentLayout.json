@@ -1,12 +1,109 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Project\\2025\\PrivateProject\\LMIS\\03.Source\\LMIS\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3174AC39-39A6-41D4-886D-7A926DD4DE9A}|LMIS.OMS\\LMIS.OMS.csproj|d:\\project\\2025\\privateproject\\lmis\\03.source\\lmis\\lmis.oms\\lmis.oms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3174AC39-39A6-41D4-886D-7A926DD4DE9A}|LMIS.OMS\\LMIS.OMS.csproj|solutionrelative:lmis.oms\\lmis.oms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3174AC39-39A6-41D4-886D-7A926DD4DE9A}|LMIS.OMS\\LMIS.OMS.csproj|d:\\project\\2025\\privateproject\\lmis\\03.source\\lmis\\lmis.oms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3174AC39-39A6-41D4-886D-7A926DD4DE9A}|LMIS.OMS\\LMIS.OMS.csproj|solutionrelative:lmis.oms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3174AC39-39A6-41D4-886D-7A926DD4DE9A}|LMIS.OMS\\LMIS.OMS.csproj|d:\\project\\2025\\privateproject\\lmis\\03.source\\lmis\\lmis.oms\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3174AC39-39A6-41D4-886D-7A926DD4DE9A}|LMIS.OMS\\LMIS.OMS.csproj|solutionrelative:lmis.oms\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3174AC39-39A6-41D4-886D-7A926DD4DE9A}|LMIS.OMS\\LMIS.OMS.csproj|d:\\project\\2025\\privateproject\\lmis\\03.source\\lmis\\lmis.oms\\lmis.oms.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{3174AC39-39A6-41D4-886D-7A926DD4DE9A}|LMIS.OMS\\LMIS.OMS.csproj|solutionrelative:lmis.oms\\lmis.oms.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F02899-A376-47F9-B669-3ED6958143F3}|LMIS.API\\LMIS.API.csproj|d:\\project\\2025\\privateproject\\lmis\\03.source\\lmis\\lmis.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{03F02899-A376-47F9-B669-3ED6958143F3}|LMIS.API\\LMIS.API.csproj|solutionrelative:lmis.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LMIS.OMS.csproj",
+              "DocumentMoniker": "D:\\Project\\2025\\PrivateProject\\LMIS\\03.Source\\LMIS\\LMIS.OMS\\LMIS.OMS.csproj",
+              "RelativeDocumentMoniker": "LMIS.OMS\\LMIS.OMS.csproj",
+              "ToolTip": "D:\\Project\\2025\\PrivateProject\\LMIS\\03.Source\\LMIS\\LMIS.OMS\\LMIS.OMS.csproj",
+              "RelativeToolTip": "LMIS.OMS\\LMIS.OMS.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-24T13:10:24.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Project\\2025\\PrivateProject\\LMIS\\03.Source\\LMIS\\LMIS.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "LMIS.API\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Project\\2025\\PrivateProject\\LMIS\\03.Source\\LMIS\\LMIS.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "LMIS.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-24T13:09:02.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LMIS.OMS.http",
+              "DocumentMoniker": "D:\\Project\\2025\\PrivateProject\\LMIS\\03.Source\\LMIS\\LMIS.OMS\\LMIS.OMS.http",
+              "RelativeDocumentMoniker": "LMIS.OMS\\LMIS.OMS.http",
+              "ToolTip": "D:\\Project\\2025\\PrivateProject\\LMIS\\03.Source\\LMIS\\LMIS.OMS\\LMIS.OMS.http",
+              "RelativeToolTip": "LMIS.OMS\\LMIS.OMS.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-24T13:08:40.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\Project\\2025\\PrivateProject\\LMIS\\03.Source\\LMIS\\LMIS.OMS\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "LMIS.OMS\\Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\Project\\2025\\PrivateProject\\LMIS\\03.Source\\LMIS\\LMIS.OMS\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "LMIS.OMS\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T11:40:17.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Project\\2025\\PrivateProject\\LMIS\\03.Source\\LMIS\\LMIS.OMS\\Program.cs",
+              "RelativeDocumentMoniker": "LMIS.OMS\\Program.cs",
+              "ToolTip": "D:\\Project\\2025\\PrivateProject\\LMIS\\03.Source\\LMIS\\LMIS.OMS\\Program.cs",
+              "RelativeToolTip": "LMIS.OMS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T11:55:09.178Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

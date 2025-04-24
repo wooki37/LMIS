@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>LMIS.OMS</name>
+    </assembly>
+    <members>
+        <member name="T:LMIS.OMS.Controllers.OrdersController">
+            <summary>
+             주문 생성 API
+            </summary>
+        </member>
+        <member name="M:LMIS.OMS.Controllers.OrdersController.CreateOrder(LMIS.Shared.Models.OMS.DTO.Request.CreateOrderRequest)">
+            <summary>
+            주문 생성.
+            </summary>
+        </member>
+    </members>
+</doc>

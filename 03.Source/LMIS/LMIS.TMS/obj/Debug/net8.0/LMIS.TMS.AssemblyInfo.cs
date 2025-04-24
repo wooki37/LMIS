@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LMIS.TMS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0bb28a0cce4896a52921a4df3430c3a369102e58")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b68dbca6ad67b3dc1c614e324a9e76e051655826")]
 [assembly: System.Reflection.AssemblyProductAttribute("LMIS.TMS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LMIS.TMS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

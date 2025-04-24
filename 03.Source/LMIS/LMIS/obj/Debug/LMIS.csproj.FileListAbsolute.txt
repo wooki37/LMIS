@@ -1,0 +1,2 @@
+D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS\obj\Debug\LMIS.csproj.AssemblyReference.cache
+D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS\obj\Debug\LMIS.csproj.CoreCompileInputs.cache

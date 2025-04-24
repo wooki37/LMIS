@@ -1,0 +1,12 @@
+D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.Shared\bin\Debug\net8.0\LMIS.Shared.deps.json
+D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.Shared\bin\Debug\net8.0\LMIS.Shared.dll
+D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.Shared\bin\Debug\net8.0\LMIS.Shared.pdb
+D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.Shared\obj\Debug\net8.0\LMIS.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.Shared\obj\Debug\net8.0\LMIS.Shared.AssemblyInfoInputs.cache
+D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.Shared\obj\Debug\net8.0\LMIS.Shared.AssemblyInfo.cs
+D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.Shared\obj\Debug\net8.0\LMIS.Shared.csproj.CoreCompileInputs.cache
+D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.Shared\obj\Debug\net8.0\LMIS.Shared.sourcelink.json
+D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.Shared\obj\Debug\net8.0\LMIS.Shared.dll
+D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.Shared\obj\Debug\net8.0\refint\LMIS.Shared.dll
+D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.Shared\obj\Debug\net8.0\LMIS.Shared.pdb
+D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.Shared\obj\Debug\net8.0\ref\LMIS.Shared.dll

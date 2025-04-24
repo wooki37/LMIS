@@ -1,3 +1,6 @@
+using Microsoft.Extensions.Options;
+using System.Reflection;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -13,7 +16,15 @@ builder.Services.AddSwaggerGen(options =>
         Version = "v1",
         Description = "OrderManagementSystem API"
     });
-    options.CustomSchemaIds(type => type.FullName);
+    options.TagActionsBy(api =>
+    {
+        return new[] {api.GroupName ?? api.ActionDescriptor.RouteValues["controller"]! };
+    });
+
+    options.DocInclusionPredicate((name, api) => true);
+
+    var xmlFilename = $"{Assembly.GetExecutingAssembly().GetName().Name}.xml";
+    options.IncludeXmlComments(Path.Combine(AppContext.BaseDirectory, xmlFilename));
 });
 
 var app = builder.Build();
@@ -25,7 +36,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI(options =>
     {
         options.SwaggerEndpoint("/swagger/v1/swagger.json", "LMIS.OMS API v1");
-        options.RoutePrefix = string.Empty; // Set Swagger UI at the app's root
+        options.RoutePrefix = "swagger"; // Set Swagger UI at the app's root
     });
 }
 

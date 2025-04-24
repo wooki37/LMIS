@@ -1,0 +1,13 @@
+D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.Core\bin\Debug\net8.0\LMIS.Core.deps.json
+D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.Core\bin\Debug\net8.0\LMIS.Core.dll
+D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.Core\bin\Debug\net8.0\LMIS.Core.pdb
+D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.Core\obj\Debug\net8.0\LMIS.Core.csproj.AssemblyReference.cache
+D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.Core\obj\Debug\net8.0\LMIS.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.Core\obj\Debug\net8.0\LMIS.Core.AssemblyInfoInputs.cache
+D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.Core\obj\Debug\net8.0\LMIS.Core.AssemblyInfo.cs
+D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.Core\obj\Debug\net8.0\LMIS.Core.csproj.CoreCompileInputs.cache
+D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.Core\obj\Debug\net8.0\LMIS.Core.sourcelink.json
+D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.Core\obj\Debug\net8.0\LMIS.Core.dll
+D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.Core\obj\Debug\net8.0\refint\LMIS.Core.dll
+D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.Core\obj\Debug\net8.0\LMIS.Core.pdb
+D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.Core\obj\Debug\net8.0\ref\LMIS.Core.dll
