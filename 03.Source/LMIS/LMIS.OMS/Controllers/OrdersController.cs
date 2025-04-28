@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using LMIS.Shared.Models.OMS.DTO.Request;
-using LMIS.Shared.Models.Common; // ApiResponse 위치
+using LMIS.Shared.Models.Common;
+using LMIS.OMS.Services.Interface; // ApiResponse 위치
 
 namespace LMIS.OMS.Controllers
 {
@@ -12,23 +13,24 @@ namespace LMIS.OMS.Controllers
     [ApiExplorerSettings(GroupName = "OMS")]
     public class OrdersController : ControllerBase
     {
-        private readonly ILogger<OrdersController> _logger;
-        public OrdersController(ILogger<OrdersController> logger)
+        private readonly IOrdersService _service;
+        public OrdersController(IOrdersService sercive)
         {
-            _logger = logger;
+            _service = sercive;
         }
 
         /// <summary>
         /// 주문 생성.
         /// </summary>
         [HttpPost]
-        public IActionResult CreateOrder([FromBody] CreateOrderRequest request)
+        public async Task<IActionResult> CreateOrder([FromBody] CreateOrderRequest request)
         {
+            var orderID = await _service.CreateAsync(request);
             return Ok(new ApiResponse<string>
             {
                 Success = true,
                 Message = "주문이 생성되었습니다.",
-                Data = "ORD123456"
+                Data = orderID
             });
         }
     }

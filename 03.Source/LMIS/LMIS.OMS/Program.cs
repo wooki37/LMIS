@@ -1,3 +1,7 @@
+using LMIS.OMS.Repositories;
+using LMIS.OMS.Repositories.Interface;
+using LMIS.OMS.Services;
+using LMIS.OMS.Services.Interface;
 using Microsoft.Extensions.Options;
 using System.Reflection;
 
@@ -26,6 +30,9 @@ builder.Services.AddSwaggerGen(options =>
     var xmlFilename = $"{Assembly.GetExecutingAssembly().GetName().Name}.xml";
     options.IncludeXmlComments(Path.Combine(AppContext.BaseDirectory, xmlFilename));
 });
+
+builder.Services.AddScoped<IOrdersRepository, OrdersRepository>();
+builder.Services.AddScoped<IOrdersService, OrdersService>();
 
 var app = builder.Build();
 

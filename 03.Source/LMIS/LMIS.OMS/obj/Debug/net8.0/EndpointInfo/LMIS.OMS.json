@@ -55,9 +55,17 @@
             },
             "nullable": true
           },
+          "orderStatus": {
+            "type": "string",
+            "nullable": true
+          },
           "orderType": {
             "type": "string",
             "nullable": true
+          },
+          "totalAmount": {
+            "type": "number",
+            "format": "double"
           }
         },
         "additionalProperties": false
