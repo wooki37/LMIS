@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>LMIS.TMS</name>
+    </assembly>
+    <members>
+        <member name="T:LMIS.TMS.Controllers.TransportRequestsController">
+            <summary>
+            운송 요청 생성 API
+            </summary>
+        </member>
+        <member name="M:LMIS.TMS.Controllers.TransportRequestsController.CreateTransportRequest(LMIS.Shared.Models.TMS.DTO.Request.CreateTransportRequest)">
+            <summary>
+            운송 요청 생성
+            </summary>
+        </member>
+    </members>
+</doc>

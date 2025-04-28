@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "LMIS.TMS.Controllers.TransportRequestsController",
+    "Method": "CreateTransportRequest",
+    "RelativePath": "api/TransportRequests",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "LMIS.Shared.Models.TMS.DTO.Request.CreateTransportRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

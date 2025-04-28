@@ -1,4 +1,5 @@
-﻿using System;
+﻿using LMIS.Shared.Models.OMS.DTO;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -11,8 +12,7 @@ namespace LMIS.Shared.Models.TMS.DTO.Request
         public string OrderID { get; set; }
         public string PickupLocation { get; set; }
         public string DeliveryLocation { get; set; }
-        public DateTime DesirePickupTime { get; set; }  // 원하는 픽업 시간
+        public DateTime RequestPickupDate { get; set; }  // 원하는 픽업 시간
 
-        public DispatchAssignmentDto AssignmentStrategy { get; set; } // Assignment strategy (Manual, Automatic)
     }
 }

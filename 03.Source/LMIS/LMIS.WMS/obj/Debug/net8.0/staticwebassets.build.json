@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "rksJ7t5AcMcyTr6ImwBMhdm0jYRouNjCoiI9fC7BUJ8=",
+  "Source": "LMIS.WMS",
+  "BasePath": "_content/LMIS.WMS",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

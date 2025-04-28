@@ -1,34 +1,37 @@
-﻿//using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
+using LMIS.Shared.Models.OMS.DTO.Request;
+using LMIS.Shared.Models.Common;
+using LMIS.OMS.Services.Interface; // ApiResponse 위치
 
-//namespace LMIS.OMS.Controllers
-//{
-//    /// <summary>
-//    ///  주문 관리 API
-//    /// </summary>
-//    [ApiController]
-//    [Route("api/orders")]
-//    [ApiExplorerSettings(GroupName = "OMS")]
-//    public class OrdersController : ControllerBase
-//    {
-//        private readonly ILogger<OrdersController> _logger;
-//        public OrdersController(ILogger<OrdersController> logger)
-//        {
-//            _logger = logger;
-//        }
+namespace LMIS.OMS.Controllers
+{
+    /// <summary>
+    ///  주문 생성 API
+    /// </summary>
+    [ApiController]
+    [Route("api/[controller]")]
+    [ApiExplorerSettings(GroupName = "OMS")]
+    public class OrdersController : ControllerBase
+    {
+        private readonly IOrdersService _service;
+        public OrdersController(IOrdersService sercive)
+        {
+            _service = sercive;
+        }
 
-//        /// <summary>
-//        /// 주문 목록을 조회합니다.
-//        /// </summary>
-//        [HttpGet]
-//        public IEnumerable<OrderDto> Get()
-//        {
-//            return Enumerable.Range(1, 5).Select(i => new OrderDto
-//            {
-//                OrderID = i,
-//                CustomerName = $"Customer {index}",
-//                OrderDate = DateTime.Now.AddDays(-index),
-//                TotalAmount = Random.Shared.Next(100, 1000)
-//            })
-//        }
-//    }
-//}
+        /// <summary>
+        /// 주문 생성.
+        /// </summary>
+        [HttpPost]
+        public async Task<IActionResult> CreateOrder([FromBody] CreateOrderRequest request)
+        {
+            var orderID = await _service.CreateAsync(request);
+            return Ok(new ApiResponse<string>
+            {
+                Success = true,
+                Message = "주문이 생성되었습니다.",
+                Data = orderID
+            });
+        }
+    }
+}

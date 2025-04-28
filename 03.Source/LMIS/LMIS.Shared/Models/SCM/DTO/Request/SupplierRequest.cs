@@ -9,7 +9,7 @@ namespace LMIS.Shared.Models.SCM.DTO.Request
     public class SupplierRequest
     {
         public SupplierDto SupplierID { get; set; }
-        public string SupplierName { get; set;; }
+        public string SupplierName { get; set; }
         public string SupplierContact { get; set; }
         public string SupplierAddress { get; set; }
     }

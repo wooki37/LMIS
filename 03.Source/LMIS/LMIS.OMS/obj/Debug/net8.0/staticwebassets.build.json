@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "glFyUHMCWwbr3NERj1lFBbHUMjsYFypd2vWytxSaEG8=",
+  "Source": "LMIS.OMS",
+  "BasePath": "_content/LMIS.OMS",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

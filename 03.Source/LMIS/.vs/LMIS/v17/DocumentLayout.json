@@ -1,12 +1,234 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Project\\2025\\PrivateProject\\LMIS\\03.Source\\LMIS\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3174AC39-39A6-41D4-886D-7A926DD4DE9A}|LMIS.OMS\\LMIS.OMS.csproj|d:\\project\\2025\\privateproject\\lmis\\03.source\\lmis\\lmis.oms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3174AC39-39A6-41D4-886D-7A926DD4DE9A}|LMIS.OMS\\LMIS.OMS.csproj|solutionrelative:lmis.oms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3174AC39-39A6-41D4-886D-7A926DD4DE9A}|LMIS.OMS\\LMIS.OMS.csproj|d:\\project\\2025\\privateproject\\lmis\\03.source\\lmis\\lmis.oms\\repositories\\ordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3174AC39-39A6-41D4-886D-7A926DD4DE9A}|LMIS.OMS\\LMIS.OMS.csproj|solutionrelative:lmis.oms\\repositories\\ordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3174AC39-39A6-41D4-886D-7A926DD4DE9A}|LMIS.OMS\\LMIS.OMS.csproj|d:\\project\\2025\\privateproject\\lmis\\03.source\\lmis\\lmis.oms\\repositories\\interface\\iordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3174AC39-39A6-41D4-886D-7A926DD4DE9A}|LMIS.OMS\\LMIS.OMS.csproj|solutionrelative:lmis.oms\\repositories\\interface\\iordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E537BDD7-B59E-47A2-A5FA-F303773ADD4C}|LMIS.TMS\\LMIS.TMS.csproj|d:\\project\\2025\\privateproject\\lmis\\03.source\\lmis\\lmis.tms\\lmis.tms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E537BDD7-B59E-47A2-A5FA-F303773ADD4C}|LMIS.TMS\\LMIS.TMS.csproj|solutionrelative:lmis.tms\\lmis.tms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3174AC39-39A6-41D4-886D-7A926DD4DE9A}|LMIS.OMS\\LMIS.OMS.csproj|d:\\project\\2025\\privateproject\\lmis\\03.source\\lmis\\lmis.oms\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3174AC39-39A6-41D4-886D-7A926DD4DE9A}|LMIS.OMS\\LMIS.OMS.csproj|solutionrelative:lmis.oms\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E537BDD7-B59E-47A2-A5FA-F303773ADD4C}|LMIS.TMS\\LMIS.TMS.csproj|d:\\project\\2025\\privateproject\\lmis\\03.source\\lmis\\lmis.tms\\controllers\\transportrequestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E537BDD7-B59E-47A2-A5FA-F303773ADD4C}|LMIS.TMS\\LMIS.TMS.csproj|solutionrelative:lmis.tms\\controllers\\transportrequestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E537BDD7-B59E-47A2-A5FA-F303773ADD4C}|LMIS.TMS\\LMIS.TMS.csproj|d:\\project\\2025\\privateproject\\lmis\\03.source\\lmis\\lmis.tms\\services\\transportrequestsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E537BDD7-B59E-47A2-A5FA-F303773ADD4C}|LMIS.TMS\\LMIS.TMS.csproj|solutionrelative:lmis.tms\\services\\transportrequestsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3174AC39-39A6-41D4-886D-7A926DD4DE9A}|LMIS.OMS\\LMIS.OMS.csproj|d:\\project\\2025\\privateproject\\lmis\\03.source\\lmis\\lmis.oms\\services\\ordersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3174AC39-39A6-41D4-886D-7A926DD4DE9A}|LMIS.OMS\\LMIS.OMS.csproj|solutionrelative:lmis.oms\\services\\ordersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3174AC39-39A6-41D4-886D-7A926DD4DE9A}|LMIS.OMS\\LMIS.OMS.csproj|d:\\project\\2025\\privateproject\\lmis\\03.source\\lmis\\lmis.oms\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3174AC39-39A6-41D4-886D-7A926DD4DE9A}|LMIS.OMS\\LMIS.OMS.csproj|solutionrelative:lmis.oms\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A72E6959-4BF6-4F1E-95A4-09B52820BE12}|LMIS.Shared\\LMIS.Shared.csproj|d:\\project\\2025\\privateproject\\lmis\\03.source\\lmis\\lmis.shared\\models\\oms\\dto\\request\\createorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A72E6959-4BF6-4F1E-95A4-09B52820BE12}|LMIS.Shared\\LMIS.Shared.csproj|solutionrelative:lmis.shared\\models\\oms\\dto\\request\\createorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3174AC39-39A6-41D4-886D-7A926DD4DE9A}|LMIS.OMS\\LMIS.OMS.csproj|d:\\project\\2025\\privateproject\\lmis\\03.source\\lmis\\lmis.oms\\services\\interface\\iordersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3174AC39-39A6-41D4-886D-7A926DD4DE9A}|LMIS.OMS\\LMIS.OMS.csproj|solutionrelative:lmis.oms\\services\\interface\\iordersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3174AC39-39A6-41D4-886D-7A926DD4DE9A}|LMIS.OMS\\LMIS.OMS.csproj|d:\\project\\2025\\privateproject\\lmis\\03.source\\lmis\\lmis.oms\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3174AC39-39A6-41D4-886D-7A926DD4DE9A}|LMIS.OMS\\LMIS.OMS.csproj|solutionrelative:lmis.oms\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 206,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Project\\2025\\PrivateProject\\LMIS\\03.Source\\LMIS\\LMIS.OMS\\Program.cs",
+              "RelativeDocumentMoniker": "LMIS.OMS\\Program.cs",
+              "ToolTip": "D:\\Project\\2025\\PrivateProject\\LMIS\\03.Source\\LMIS\\LMIS.OMS\\Program.cs",
+              "RelativeToolTip": "LMIS.OMS\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvx8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T21:17:36.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IOrdersRepository.cs",
+              "DocumentMoniker": "D:\\Project\\2025\\PrivateProject\\LMIS\\03.Source\\LMIS\\LMIS.OMS\\Repositories\\Interface\\IOrdersRepository.cs",
+              "RelativeDocumentMoniker": "LMIS.OMS\\Repositories\\Interface\\IOrdersRepository.cs",
+              "ToolTip": "D:\\Project\\2025\\PrivateProject\\LMIS\\03.Source\\LMIS\\LMIS.OMS\\Repositories\\Interface\\IOrdersRepository.cs",
+              "RelativeToolTip": "LMIS.OMS\\Repositories\\Interface\\IOrdersRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T21:03:42.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\Project\\2025\\PrivateProject\\LMIS\\03.Source\\LMIS\\LMIS.OMS\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "LMIS.OMS\\Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\Project\\2025\\PrivateProject\\LMIS\\03.Source\\LMIS\\LMIS.OMS\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "LMIS.OMS\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T20:42:15.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrdersRepository.cs",
+              "DocumentMoniker": "D:\\Project\\2025\\PrivateProject\\LMIS\\03.Source\\LMIS\\LMIS.OMS\\Repositories\\OrdersRepository.cs",
+              "RelativeDocumentMoniker": "LMIS.OMS\\Repositories\\OrdersRepository.cs",
+              "ToolTip": "D:\\Project\\2025\\PrivateProject\\LMIS\\03.Source\\LMIS\\LMIS.OMS\\Repositories\\OrdersRepository.cs",
+              "RelativeToolTip": "LMIS.OMS\\Repositories\\OrdersRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T21:05:04.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrdersService.cs",
+              "DocumentMoniker": "D:\\Project\\2025\\PrivateProject\\LMIS\\03.Source\\LMIS\\LMIS.OMS\\Services\\OrdersService.cs",
+              "RelativeDocumentMoniker": "LMIS.OMS\\Services\\OrdersService.cs",
+              "ToolTip": "D:\\Project\\2025\\PrivateProject\\LMIS\\03.Source\\LMIS\\LMIS.OMS\\Services\\OrdersService.cs",
+              "RelativeToolTip": "LMIS.OMS\\Services\\OrdersService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T20:53:07.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LMIS.TMS",
+              "DocumentMoniker": "D:\\Project\\2025\\PrivateProject\\LMIS\\03.Source\\LMIS\\LMIS.TMS\\LMIS.TMS.csproj",
+              "RelativeDocumentMoniker": "LMIS.TMS\\LMIS.TMS.csproj",
+              "ToolTip": "D:\\Project\\2025\\PrivateProject\\LMIS\\03.Source\\LMIS\\LMIS.TMS\\LMIS.TMS.csproj",
+              "RelativeToolTip": "LMIS.TMS\\LMIS.TMS.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-28T20:55:34.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateOrderRequest.cs",
+              "DocumentMoniker": "D:\\Project\\2025\\PrivateProject\\LMIS\\03.Source\\LMIS\\LMIS.Shared\\Models\\OMS\\DTO\\Request\\CreateOrderRequest.cs",
+              "RelativeDocumentMoniker": "LMIS.Shared\\Models\\OMS\\DTO\\Request\\CreateOrderRequest.cs",
+              "ToolTip": "D:\\Project\\2025\\PrivateProject\\LMIS\\03.Source\\LMIS\\LMIS.Shared\\Models\\OMS\\DTO\\Request\\CreateOrderRequest.cs",
+              "RelativeToolTip": "LMIS.Shared\\Models\\OMS\\DTO\\Request\\CreateOrderRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T21:10:55.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IOrdersService.cs",
+              "DocumentMoniker": "D:\\Project\\2025\\PrivateProject\\LMIS\\03.Source\\LMIS\\LMIS.OMS\\Services\\Interface\\IOrdersService.cs",
+              "RelativeDocumentMoniker": "LMIS.OMS\\Services\\Interface\\IOrdersService.cs",
+              "ToolTip": "D:\\Project\\2025\\PrivateProject\\LMIS\\03.Source\\LMIS\\LMIS.OMS\\Services\\Interface\\IOrdersService.cs",
+              "RelativeToolTip": "LMIS.OMS\\Services\\Interface\\IOrdersService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T20:50:32.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Project\\2025\\PrivateProject\\LMIS\\03.Source\\LMIS\\LMIS.OMS\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "LMIS.OMS\\Entities\\Customer.cs",
+              "ToolTip": "D:\\Project\\2025\\PrivateProject\\LMIS\\03.Source\\LMIS\\LMIS.OMS\\Entities\\Customer.cs",
+              "RelativeToolTip": "LMIS.OMS\\Entities\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T20:45:39.164Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 194,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TransportRequestsController.cs",
+              "DocumentMoniker": "D:\\Project\\2025\\PrivateProject\\LMIS\\03.Source\\LMIS\\LMIS.TMS\\Controllers\\TransportRequestsController.cs",
+              "RelativeDocumentMoniker": "LMIS.TMS\\Controllers\\TransportRequestsController.cs",
+              "ToolTip": "D:\\Project\\2025\\PrivateProject\\LMIS\\03.Source\\LMIS\\LMIS.TMS\\Controllers\\TransportRequestsController.cs",
+              "RelativeToolTip": "LMIS.TMS\\Controllers\\TransportRequestsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T21:15:40.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TransportRequestsService.cs",
+              "DocumentMoniker": "D:\\Project\\2025\\PrivateProject\\LMIS\\03.Source\\LMIS\\LMIS.TMS\\Services\\TransportRequestsService.cs",
+              "RelativeDocumentMoniker": "LMIS.TMS\\Services\\TransportRequestsService.cs",
+              "ToolTip": "D:\\Project\\2025\\PrivateProject\\LMIS\\03.Source\\LMIS\\LMIS.TMS\\Services\\TransportRequestsService.cs",
+              "RelativeToolTip": "LMIS.TMS\\Services\\TransportRequestsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T20:52:37.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Project\\2025\\PrivateProject\\LMIS\\03.Source\\LMIS\\LMIS.OMS\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "LMIS.OMS\\Entities\\Order.cs",
+              "ToolTip": "D:\\Project\\2025\\PrivateProject\\LMIS\\03.Source\\LMIS\\LMIS.OMS\\Entities\\Order.cs",
+              "RelativeToolTip": "LMIS.OMS\\Entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T20:37:29.363Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
