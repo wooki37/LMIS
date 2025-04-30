@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LMIS.WMS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9246deda003b09c5cf4665dcb57e533753f315f2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad90bb4bcfb4123784d09ab82495c0835f3ea356")]
 [assembly: System.Reflection.AssemblyProductAttribute("LMIS.WMS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LMIS.WMS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

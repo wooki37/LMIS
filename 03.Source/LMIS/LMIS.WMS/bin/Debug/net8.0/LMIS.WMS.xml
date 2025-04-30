@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>LMIS.WMS</name>
+    </assembly>
+    <members>
+        <member name="T:LMIS.WMS.Controllers.InboundController">
+            <summary>
+            입고 생성 API
+            </summary>
+        </member>
+        <member name="M:LMIS.WMS.Controllers.InboundController.CreateInbound(LMIS.Shared.Models.WMS.DTO.Request.CreateInboundRequest)">
+            <summary>
+            입고 생성
+            </summary>
+        </member>
+    </members>
+</doc>

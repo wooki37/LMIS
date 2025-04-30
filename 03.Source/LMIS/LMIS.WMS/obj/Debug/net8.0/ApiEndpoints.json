@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "LMIS.WMS.Controllers.InboundController",
+    "Method": "CreateInbound",
+    "RelativePath": "api/Inbound",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "LMIS.Shared.Models.WMS.DTO.Request.CreateInboundRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
