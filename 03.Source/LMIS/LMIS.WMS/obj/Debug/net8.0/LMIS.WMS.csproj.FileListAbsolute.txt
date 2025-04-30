@@ -6,6 +6,7 @@ D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.WMS\bin\Debug\net8.0\LMI
 D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.WMS\bin\Debug\net8.0\LMIS.WMS.runtimeconfig.json
 D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.WMS\bin\Debug\net8.0\LMIS.WMS.dll
 D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.WMS\bin\Debug\net8.0\LMIS.WMS.pdb
+D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.WMS\bin\Debug\net8.0\LMIS.WMS.xml
 D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.WMS\bin\Debug\net8.0\MediatR.dll
 D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.WMS\bin\Debug\net8.0\MediatR.Contracts.dll
 D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.WMS\bin\Debug\net8.0\Microsoft.OpenApi.dll
@@ -14,6 +15,8 @@ D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.WMS\bin\Debug\net8.0\Ser
 D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.WMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.WMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.WMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.WMS\bin\Debug\net8.0\LMIS.Shared.dll
+D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.WMS\bin\Debug\net8.0\LMIS.Shared.pdb
 D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.WMS\obj\Debug\net8.0\LMIS.WMS.csproj.AssemblyReference.cache
 D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.WMS\obj\Debug\net8.0\LMIS.WMS.GeneratedMSBuildEditorConfig.editorconfig
 D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.WMS\obj\Debug\net8.0\LMIS.WMS.AssemblyInfoInputs.cache
@@ -36,6 +39,7 @@ D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.WMS\obj\Debug\net8.0\sta
 D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.WMS\obj\Debug\net8.0\LMIS.WMS.csproj.Up2Date
 D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.WMS\obj\Debug\net8.0\LMIS.WMS.dll
 D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.WMS\obj\Debug\net8.0\refint\LMIS.WMS.dll
+D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.WMS\obj\Debug\net8.0\LMIS.WMS.xml
 D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.WMS\obj\Debug\net8.0\LMIS.WMS.pdb
 D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.WMS\obj\Debug\net8.0\LMIS.WMS.genruntimeconfig.cache
 D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.WMS\obj\Debug\net8.0\ref\LMIS.WMS.dll
