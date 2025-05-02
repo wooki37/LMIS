@@ -11,7 +11,7 @@ namespace LMIS.Shared.Models.SCM.DTO
     {
         public string PurchaseOrderItemID { get; set; }
         public PurchaseOrderDto PurchaseOrderID { get; set; }
-        public ProductDto ProductID { get; set; }
+        public string ProductID { get; set; } = string.Empty;
         public int Quantity { get; set; }
         public decimal UnitPrice { get; set; }
     }
