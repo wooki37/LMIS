@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>LMIS.SCM</name>
+    </assembly>
+    <members>
+        <member name="T:LMIS.SCM.Controllers.PurchaseOrderController">
+            <summary>
+            발주주문정보 생성 API
+            </summary>
+        </member>
+        <member name="M:LMIS.SCM.Controllers.PurchaseOrderController.CreatePurchaseOrder(LMIS.Shared.Models.SCM.DTO.Request.CreatePurchaseOrderRequest)">
+            <summary>
+            발주주문정보 생성
+            </summary>
+        </member>
+        <member name="T:LMIS.SCM.Controllers.SupplierController">
+            <summary>
+            공급업체 등록 API
+            </summary>
+        </member>
+        <member name="M:LMIS.SCM.Controllers.SupplierController.CreateSupplier(LMIS.Shared.Models.SCM.DTO.Request.CreateSupplierRequest)">
+            <summary>
+            공급업체등록
+            </summary>
+        </member>
+    </members>
+</doc>

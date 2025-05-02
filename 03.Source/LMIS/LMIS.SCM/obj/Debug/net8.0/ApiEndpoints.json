@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "LMIS.SCM.Controllers.PurchaseOrderController",
+    "Method": "CreatePurchaseOrder",
+    "RelativePath": "api/PurchaseOrder",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "LMIS.Shared.Models.SCM.DTO.Request.CreatePurchaseOrderRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LMIS.SCM.Controllers.SupplierController",
+    "Method": "CreateSupplier",
+    "RelativePath": "api/Supplier",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "LMIS.Shared.Models.SCM.DTO.Request.CreateSupplierRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

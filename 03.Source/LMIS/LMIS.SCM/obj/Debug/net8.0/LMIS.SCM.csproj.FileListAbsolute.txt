@@ -39,3 +39,7 @@ D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.SCM\obj\Debug\net8.0\ref
 D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.SCM\obj\Debug\net8.0\LMIS.SCM.pdb
 D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.SCM\obj\Debug\net8.0\LMIS.SCM.genruntimeconfig.cache
 D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.SCM\obj\Debug\net8.0\ref\LMIS.SCM.dll
+D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.SCM\bin\Debug\net8.0\LMIS.SCM.xml
+D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.SCM\bin\Debug\net8.0\LMIS.Shared.dll
+D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.SCM\bin\Debug\net8.0\LMIS.Shared.pdb
+D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.SCM\obj\Debug\net8.0\LMIS.SCM.xml

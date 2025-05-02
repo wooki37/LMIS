@@ -1,0 +1,197 @@
+{
+  "openapi": "3.0.4",
+  "info": {
+    "title": "LMIS.SCM API",
+    "description": "SupplyChainManagementSystem API",
+    "version": "v1"
+  },
+  "paths": {
+    "/api/PurchaseOrder": {
+      "post": {
+        "tags": [
+          "SCM"
+        ],
+        "summary": "발주주문정보 생성",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CreatePurchaseOrderRequest"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CreatePurchaseOrderRequest"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/CreatePurchaseOrderRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Supplier": {
+      "post": {
+        "tags": [
+          "SCM"
+        ],
+        "summary": "공급업체등록",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CreateSupplierRequest"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CreateSupplierRequest"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/CreateSupplierRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "CreatePurchaseOrderRequest": {
+        "type": "object",
+        "properties": {
+          "supplierID": {
+            "type": "string",
+            "nullable": true
+          },
+          "orderDate": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "expectedDelivery": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "purchaseOrderItems": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/PurchaseOrderItemDto"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "CreateSupplierRequest": {
+        "type": "object",
+        "properties": {
+          "supplierName": {
+            "type": "string",
+            "nullable": true
+          },
+          "supplierEmail": {
+            "type": "string",
+            "nullable": true
+          },
+          "supplierContact": {
+            "type": "string",
+            "nullable": true
+          },
+          "supplierAddress": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "PurchaseOrderDto": {
+        "type": "object",
+        "properties": {
+          "purchaseOrderID": {
+            "type": "string",
+            "nullable": true
+          },
+          "supplierID": {
+            "$ref": "#/components/schemas/SupplierDto"
+          },
+          "orderDate": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "expectedDelivery": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "totalAmount": {
+            "type": "number",
+            "format": "double"
+          }
+        },
+        "additionalProperties": false
+      },
+      "PurchaseOrderItemDto": {
+        "type": "object",
+        "properties": {
+          "purchaseOrderItemID": {
+            "type": "string",
+            "nullable": true
+          },
+          "purchaseOrderID": {
+            "$ref": "#/components/schemas/PurchaseOrderDto"
+          },
+          "productID": {
+            "type": "string",
+            "nullable": true
+          },
+          "quantity": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "unitPrice": {
+            "type": "number",
+            "format": "double"
+          }
+        },
+        "additionalProperties": false
+      },
+      "SupplierDto": {
+        "type": "object",
+        "properties": {
+          "supplierID": {
+            "type": "string",
+            "nullable": true
+          },
+          "name": {
+            "type": "string",
+            "nullable": true
+          },
+          "contact": {
+            "type": "string",
+            "nullable": true
+          },
+          "address": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}
