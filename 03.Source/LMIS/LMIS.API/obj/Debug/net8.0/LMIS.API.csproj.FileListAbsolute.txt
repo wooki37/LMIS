@@ -25,12 +25,6 @@ D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.API\obj\Debug\net8.0\sco
 D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.API\obj\Debug\net8.0\staticwebassets.build.json
 D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.API\obj\Debug\net8.0\staticwebassets.development.json
 D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.API\obj\Debug\net8.0\staticwebassets\msbuild.LMIS.API.Microsoft.AspNetCore.StaticWebAssets.props
-D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.API\obj\Debug\net8.0\staticwebassets\msbuild.LMIS.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.API\obj\Debug\net8.0\staticwebassets\msbuild.build.LMIS.API.props
-D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LMIS.API.props
-D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LMIS.API.props
-D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.API\obj\Debug\net8.0\staticwebassets.pack.json
 D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.API\obj\Debug\net8.0\LMIS.API.csproj.Up2Date
 D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.API\obj\Debug\net8.0\LMIS.API.dll
@@ -38,3 +32,4 @@ D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.API\obj\Debug\net8.0\ref
 D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.API\obj\Debug\net8.0\LMIS.API.pdb
 D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.API\obj\Debug\net8.0\LMIS.API.genruntimeconfig.cache
 D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.API\obj\Debug\net8.0\ref\LMIS.API.dll
+D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.API\obj\Debug\net8.0\staticwebassets.build.json.cache

@@ -8,7 +8,7 @@ namespace LMIS.Shared.Models.TMS.DTO
 {
     public class TransportRequestDto
     {
-        public string TransportReqeustID { get; set; }
+        public string TransportRequestID { get; set; }
         public string PickupLocation { get; set; }
         public string DeliveryLocation { get; set; }
         public DateTime RequestDate { get; set; }
