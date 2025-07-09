@@ -12,6 +12,6 @@ namespace LMIS.Shared.Models.SCM.DTO
         public PurchaseOrderDto PurchaseOrderID { get; set; }
         public SupplierDto SupplierID { get; set; }
         public DateTime ExpectedDelivery { get; set; }
-        public List<PurchaseOrderItemReqeust> PurchaseOrderItems { get; set; }
+        public List<PurchaseOrderItemRequest> PurchaseOrderItems { get; set; }
     }
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LMIS.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad90bb4bcfb4123784d09ab82495c0835f3ea356")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f2067a540bf9804892102ac82d83861b71a9ec1")]
 [assembly: System.Reflection.AssemblyProductAttribute("LMIS.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LMIS.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

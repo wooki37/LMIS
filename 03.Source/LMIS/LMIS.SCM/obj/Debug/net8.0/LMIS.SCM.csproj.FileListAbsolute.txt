@@ -26,12 +26,6 @@ D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.SCM\obj\Debug\net8.0\sco
 D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.SCM\obj\Debug\net8.0\staticwebassets.build.json
 D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.SCM\obj\Debug\net8.0\staticwebassets.development.json
 D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.SCM\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.SCM\obj\Debug\net8.0\staticwebassets\msbuild.LMIS.SCM.Microsoft.AspNetCore.StaticWebAssets.props
-D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.SCM\obj\Debug\net8.0\staticwebassets\msbuild.LMIS.SCM.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.SCM\obj\Debug\net8.0\staticwebassets\msbuild.build.LMIS.SCM.props
-D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.SCM\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LMIS.SCM.props
-D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.SCM\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LMIS.SCM.props
-D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.SCM\obj\Debug\net8.0\staticwebassets.pack.json
 D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.SCM\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.SCM\obj\Debug\net8.0\LMIS.SCM.csproj.Up2Date
 D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.SCM\obj\Debug\net8.0\LMIS.SCM.dll
@@ -43,3 +37,4 @@ D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.SCM\bin\Debug\net8.0\LMI
 D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.SCM\bin\Debug\net8.0\LMIS.Shared.dll
 D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.SCM\bin\Debug\net8.0\LMIS.Shared.pdb
 D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.SCM\obj\Debug\net8.0\LMIS.SCM.xml
+D:\Project\2025\PrivateProject\LMIS\03.Source\LMIS\LMIS.SCM\obj\Debug\net8.0\staticwebassets.build.json.cache

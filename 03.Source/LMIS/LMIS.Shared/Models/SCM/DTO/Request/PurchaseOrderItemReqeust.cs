@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace LMIS.Shared.Models.SCM.DTO.Request
 {
-    public class PurchaseOrderItemReqeust
+    public class PurchaseOrderItemRequest
     {
         public ProductDto ProductID { get; set; }
         public int Quantity { get; set; }

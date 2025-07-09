@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Project\\2025\\PrivateProject\\LMIS\\03.Source\\LMIS\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A72E6959-4BF6-4F1E-95A4-09B52820BE12}|LMIS.Shared\\LMIS.Shared.csproj|d:\\project\\2025\\privateproject\\lmis\\03.source\\lmis\\lmis.shared\\models\\tms\\dto\\transportrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A72E6959-4BF6-4F1E-95A4-09B52820BE12}|LMIS.Shared\\LMIS.Shared.csproj|solutionrelative:lmis.shared\\models\\tms\\dto\\transportrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A72E6959-4BF6-4F1E-95A4-09B52820BE12}|LMIS.Shared\\LMIS.Shared.csproj|d:\\project\\2025\\privateproject\\lmis\\03.source\\lmis\\lmis.shared\\models\\scm\\dto\\request\\purchaseorderitemreqeust.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A72E6959-4BF6-4F1E-95A4-09B52820BE12}|LMIS.Shared\\LMIS.Shared.csproj|solutionrelative:lmis.shared\\models\\scm\\dto\\request\\purchaseorderitemreqeust.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A72E6959-4BF6-4F1E-95A4-09B52820BE12}|LMIS.Shared\\LMIS.Shared.csproj|d:\\project\\2025\\privateproject\\lmis\\03.source\\lmis\\lmis.shared\\models\\scm\\dto\\asnmessagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A72E6959-4BF6-4F1E-95A4-09B52820BE12}|LMIS.Shared\\LMIS.Shared.csproj|solutionrelative:lmis.shared\\models\\scm\\dto\\asnmessagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3174AC39-39A6-41D4-886D-7A926DD4DE9A}|LMIS.OMS\\LMIS.OMS.csproj|d:\\project\\2025\\privateproject\\lmis\\03.source\\lmis\\lmis.oms\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3174AC39-39A6-41D4-886D-7A926DD4DE9A}|LMIS.OMS\\LMIS.OMS.csproj|solutionrelative:lmis.oms\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +26,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 195,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TransportRequestDto.cs",
+              "DocumentMoniker": "D:\\Project\\2025\\PrivateProject\\LMIS\\03.Source\\LMIS\\LMIS.Shared\\Models\\TMS\\DTO\\TransportRequestDto.cs",
+              "RelativeDocumentMoniker": "LMIS.Shared\\Models\\TMS\\DTO\\TransportRequestDto.cs",
+              "ToolTip": "D:\\Project\\2025\\PrivateProject\\LMIS\\03.Source\\LMIS\\LMIS.Shared\\Models\\TMS\\DTO\\TransportRequestDto.cs",
+              "RelativeToolTip": "LMIS.Shared\\Models\\TMS\\DTO\\TransportRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T05:04:24.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PurchaseOrderItemReqeust.cs",
+              "DocumentMoniker": "D:\\Project\\2025\\PrivateProject\\LMIS\\03.Source\\LMIS\\LMIS.Shared\\Models\\SCM\\DTO\\Request\\PurchaseOrderItemReqeust.cs",
+              "RelativeDocumentMoniker": "LMIS.Shared\\Models\\SCM\\DTO\\Request\\PurchaseOrderItemReqeust.cs",
+              "ToolTip": "D:\\Project\\2025\\PrivateProject\\LMIS\\03.Source\\LMIS\\LMIS.Shared\\Models\\SCM\\DTO\\Request\\PurchaseOrderItemReqeust.cs",
+              "RelativeToolTip": "LMIS.Shared\\Models\\SCM\\DTO\\Request\\PurchaseOrderItemReqeust.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T05:02:57.916Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ASNMessageDto.cs",
+              "DocumentMoniker": "D:\\Project\\2025\\PrivateProject\\LMIS\\03.Source\\LMIS\\LMIS.Shared\\Models\\SCM\\DTO\\ASNMessageDto.cs",
+              "RelativeDocumentMoniker": "LMIS.Shared\\Models\\SCM\\DTO\\ASNMessageDto.cs",
+              "ToolTip": "D:\\Project\\2025\\PrivateProject\\LMIS\\03.Source\\LMIS\\LMIS.Shared\\Models\\SCM\\DTO\\ASNMessageDto.cs",
+              "RelativeToolTip": "LMIS.Shared\\Models\\SCM\\DTO\\ASNMessageDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T05:02:26.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\Project\\2025\\PrivateProject\\LMIS\\03.Source\\LMIS\\LMIS.OMS\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "LMIS.OMS\\Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\Project\\2025\\PrivateProject\\LMIS\\03.Source\\LMIS\\LMIS.OMS\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "LMIS.OMS\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T05:00:45.238Z",
+              "EditorCaption": ""
             }
           ]
         }
